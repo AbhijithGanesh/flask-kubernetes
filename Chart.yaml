@@ -1,0 +1,6 @@
+apiVersion: v2
+name: flask-for-kubernetes
+description: A chart to run flask on Kuberentes
+type: application
+version: 0.1.0
+appVersion: "1.16.0"

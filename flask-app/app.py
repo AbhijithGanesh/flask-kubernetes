@@ -2,6 +2,6 @@ from flask import Flask
 
 app = Flask(__name__)
 
-@app.route("/", methods=["GET"])
+@app.route("/")
 def hello_world():
-    return "Hello world"
+ return '<h1>Hello from Docker!</h1>'

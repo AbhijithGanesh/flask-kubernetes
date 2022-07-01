@@ -1,3 +1,5 @@
 Your Flask application was deployed through this chart. 
 
+Refer to the github-repository: https://github.com/AbhijithGanesh/flask-kubernetes
+
 Made by Abhijith Ganesh - 2022. © 

@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  name:  abhijith-ganesh-flask-example
+  name:  pythonenthusiastabhijith/abhijith-ganesh-flask-example
   pullPolicy: IfNotPresent
   tag: ""
 
